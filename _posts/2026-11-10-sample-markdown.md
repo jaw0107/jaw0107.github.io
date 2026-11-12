@@ -1,17 +1,17 @@
 ---
 layout: post
-title: opensource programming
+title: 오픈소스소프트웨어
 subtitle: There's lots to learn!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 mathjax: true
-author: jaw0107
+author: jw
 ---
 
 {: .box-success}
-pknu opensource programming class. 
+pknu opensource software class. 
 
 **Here is some bold text**
 
